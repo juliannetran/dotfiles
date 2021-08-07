@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = julianne.tran03@gmail.com
+	name = Julianne Tran
